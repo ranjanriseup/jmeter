@@ -1,7 +1,0 @@
-http://localhost:8080/job/demo/build?token=ranjan@123
-
-tony.davey2@dormakaba.com
-Douglas Miller <douglas.miller@dormakaba.com>
-Dormakaba Team <dormakaba.team@kelltontech.com
-brendon.allen@dormakaba.com
-ranjan
